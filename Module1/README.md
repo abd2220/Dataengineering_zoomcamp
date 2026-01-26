@@ -10,7 +10,7 @@ This repository contains my solutions for the Data Engineering Zoomcamp Module 1
 - Terraform (for GCP infrastructure)
 - Google Cloud SDK (for Terraform deployment)
 
-## Project Structure
+## Module Directory Structure
 
 ```
 Module1/
