@@ -14,4 +14,4 @@ Bootcamp for data engineering
 
 ### Module 2: Data Warhouse
 
--[Module 3 README](Module3/README.md)
+- [Module 3 README](Module3/README.md)
