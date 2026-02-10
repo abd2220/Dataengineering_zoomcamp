@@ -11,3 +11,7 @@ Bootcamp for data engineering
 ### Module 2: Workflow Orchestration using Kestra
 
 - [Module 2 README](Module2/README.md)
+
+### Module 2: Data Warhouse
+
+-[Module 3 README](Module3/README.md)
