@@ -1,0 +1,1 @@
+First loaded data in Big Query
