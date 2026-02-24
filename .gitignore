@@ -52,3 +52,10 @@ terraform.rc
 # Uncomment the line below if you want to ignore planout files.
 # planout
 
+
+.bruin.yml
+logs/runs
+logs/*.log
+__pycache__/
+*.py[cod]
+logs/queriesduckdb.db
